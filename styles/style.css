@@ -6,6 +6,7 @@
 
 #searchArea {
     position: absolute;
+    text-align: center;
     margin:0;
     top: 30%;
     left:50%;
